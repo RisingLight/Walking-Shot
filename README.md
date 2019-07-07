@@ -1,4 +1,4 @@
-<img align="left" src="https://www.dropbox.com/s/lllhrmqgg8mnyu5/Walking-Shot.png" width="200" height="200" title="walking shot" alt="Aim Today"></a>
+<img align="left" src="https://github.com/RisingLight/Walking-Shot/blob/master/Challenges/Problem%20Expanded/Resource/Walking-Shot.png" width="200" height="200" title="walking shot" alt="Aim Today"></a>
 
 
 # Walking Shot
@@ -24,7 +24,7 @@
 
 ***Most Iconic Project will be listed Here***
 
-[![INSERT YOUR GRAPHIC HERE](https://www.dropbox.com/s/ko2z80mh0kfle2l/project.jpg?dl=1)]()
+[![Project Image HERE](https://github.com/RisingLight/Walking-Shot/blob/master/Challenges/Problem%20Expanded/Resource/project.jpg)]()
 
 - Here you can show what you have `learnt` thus far, ***compare*** it with others, seek help and get better
 - You are welcome to give your own `problem statements` with or without solution.
@@ -72,7 +72,7 @@
 
 | **Team1** | **Team2** | **Team3** |
 | :---: |:---:| :---:|
-| ![Team1](https://www.dropbox.com/s/bo2var6qhrielu1/Team.jpg?dl=1)   | ![Team](https://www.dropbox.com/s/bo2var6qhrielu1/Team.jpg?dl=1)| ![Team](https://www.dropbox.com/s/bo2var6qhrielu1/Team.jpg?dl=1) |
+| ![Team1](https://github.com/RisingLight/Walking-Shot/blob/master/Challenges/Problem%20Expanded/Resource/Team.jpg)   | ![Team](https://github.com/RisingLight/Walking-Shot/blob/master/Challenges/Problem%20Expanded/Resource/Team.jpg)| ![Team](https://github.com/RisingLight/Walking-Shot/blob/master/Challenges/Problem%20Expanded/Resource/Team.jpg) |
 | `Project Alpha` | `Project Beta` | `Project Gamma` |
 
 - Team needs to keep the project active.
@@ -133,7 +133,7 @@
 
 ## Motivation
 
-<img align="left" src="https://www.dropbox.com/s/ii4g3p1uxcrav7v/Don%27t%20wait.jpg" width="300" height="200" title="Don't Wait For Motivation" alt="Aim Today"></a>
+<img align="left" src="https://github.com/RisingLight/Walking-Shot/blob/master/Challenges/Problem%20Expanded/Resource/Don't%20wait.jpg" width="300" height="200" title="Don't Wait For Motivation" alt="Aim Today"></a>
 
 - **Do it Today!**
 
