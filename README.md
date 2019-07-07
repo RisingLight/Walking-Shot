@@ -1,4 +1,4 @@
-<img align="left" src="https://www.dropbox.com/s/lllhrmqgg8mnyu5/Walking-Shot.png?dl=1" width="200" height="200" title="walking shot" alt="Aim Today"></a>
+<img align="left" src="https://www.dropbox.com/s/lllhrmqgg8mnyu5/Walking-Shot.png" width="200" height="200" title="walking shot" alt="Aim Today"></a>
 
 
 # Walking Shot
@@ -133,7 +133,7 @@
 
 ## Motivation
 
-<img align="left" src="https://www.dropbox.com/s/ii4g3p1uxcrav7v/Don%27t%20wait.jpg?dl=1" width="300" height="200" title="Don't Wait For Motivation" alt="Aim Today"></a>
+<img align="left" src="https://www.dropbox.com/s/ii4g3p1uxcrav7v/Don%27t%20wait.jpg" width="300" height="200" title="Don't Wait For Motivation" alt="Aim Today"></a>
 
 - **Do it Today!**
 
